@@ -1038,4 +1038,11 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    /*Optimisation du site */ 
+    .img-responsive{
+    width: 90%;
+    max-width: 550px;
+    margin: auto;
+    }
 }
+
