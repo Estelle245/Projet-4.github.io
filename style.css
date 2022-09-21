@@ -100,11 +100,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #555;
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: #555;
 }
 
 .d-bloc .icon-round,
@@ -112,7 +112,7 @@ a:hover {
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
-    border-color: rgba(255, 255, 255, .9);
+    border-color:rgba(255, 255, 255, .9);
 }
 
 .d-bloc .divider-h span {
@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    
 }
 
 .icon-lg {
@@ -775,16 +776,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: blue;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: blue!important;
     color: #FFFFFF!important;
 }
 
@@ -797,11 +798,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #364577!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #364577!important;
 }
 
 .icon-dark-slate-blue {
@@ -1055,5 +1056,9 @@ h4 {
 .navbar .nav{
 width:15%;
 }
+}
+.d-bloc a .icon-md{
+    color: #364577;
+    margin: 10px;
 }
 
