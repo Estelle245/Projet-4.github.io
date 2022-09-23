@@ -100,11 +100,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: white ;
+  color: #286090;
 }
 
 .d-bloc button:hover {
-    color: white;
+    color: rgb(41, 41, 194);
 }
 
 .d-bloc .icon-round,
@@ -652,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: white!important;
+    color: #555!important;
 }
 
 .container {
@@ -744,10 +744,6 @@ h4 {
     margin-bottom: 24px;
 }
 
-.portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
-}
 
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
@@ -1049,12 +1045,17 @@ h4 {
     width: 90%;
     max-width: 550px;
     margin: auto;
+    margin-top: 40px;
     }
 }
 /*Optimisation du site */ 
 @media (min-width: 767px) {
 .navbar .nav{
 width:15%;
+}
+.portfolio-row {
+    margin-bottom: 44px;
+    margin-top: 50px;
 }
 }
 .d-bloc a .icon-md{
