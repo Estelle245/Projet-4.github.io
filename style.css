@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-  color: #286090;
+  color: black;
 }
 
 .d-bloc button:hover {
@@ -738,8 +738,8 @@ h4 {
 }
 
 .white {
-    color: white!important;
-    background-color: #286090;
+    color: black!important;
+    background-color: #F3976C;
 }
 
 .portfolio-thumb {
@@ -778,21 +778,21 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: blue;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: blue!important;
-    color: #FFFFFF!important;
+    background: #F3976C!important;
+    color: black!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: black!important;
 }
 
 .ltc-atomic-tangerine {
@@ -1055,6 +1055,6 @@ width:15%;
 }
 }
 .d-bloc a .icon-md{
-    color: #364577;
+    color: black;
     margin: 10px;
 }
